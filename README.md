@@ -1,5 +1,5 @@
 # figure-srcset
-A full-width ready <figure> starter tag with multiple size breakpoints for web development.
+A full-width ready `<figure>` starter tag with multiple size breakpoints for web development.
   
 ## How to use
 
